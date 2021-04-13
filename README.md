@@ -1,1 +1,1 @@
-# abdfuncgit
+sample repository for hive functions
